@@ -1,3 +1,6 @@
+'''
+nadmiernie skomplikowany randomizer hasel.
+'''
 import sys, time, random
 
 special_chars = [
