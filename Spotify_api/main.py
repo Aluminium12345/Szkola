@@ -1,3 +1,6 @@
+'''
+szuka piosenek po nazwach i proboje je konwertowac na format mp3. jest to tylko dowod konceptu poniewaz taki proceder jest nielegalny.
+'''
 from youtubesearchpython import VideosSearch
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
